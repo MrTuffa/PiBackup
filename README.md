@@ -31,7 +31,7 @@ pibackup.sh -n //SERVER/SHARE
 ## Installation ##
 
 ```
-wget 
+wget https://raw.githubusercontent.com/Syc0nd/PiBackup/main/pibackup.sh
 chmod +x pibackup.sh
 sudo mv pibackup.sh /usr/local/bin
 ```
